@@ -1,0 +1,3 @@
+This is chapter3 and I am writing this line after adding it to staging area ..
+in case of chapter-1 and chapter-2 I made changes before adding them to
+stagging area
